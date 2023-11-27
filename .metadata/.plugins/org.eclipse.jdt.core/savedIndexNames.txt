@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+C:\Users\aluno\Documents\Isaque_Barbosa\FPOO\Aula 9 - EstruturaDecisao\.metadata\.plugins\org.eclipse.jdt.core
+3681964867.index
